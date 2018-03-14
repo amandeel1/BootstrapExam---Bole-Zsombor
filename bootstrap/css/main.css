@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+.navbar {
+  background: transparent;
+  border: transparent;
+  color: white;
+}
+.section1 {
+  background: url("/bootstrap/img/bg-pattern.png"),
+    linear-gradient(90deg, #da2531, #7d4496);
+  height: 100px;
+  text-align: center;
+}
+.section2 {
+  background: url("/bootstrap/img/bg-pattern.png"),
+    linear-gradient(90deg, #da2531, #7d4496);
+  height: 500px;
+  text-align: center;
+}
+h3 {
+  color: white;
+}
+.img-phone {
+  width: 180px;
+  margin: 10px;
+}
+
+.section3 {
+  background: #fdca4b;
+  height: 300px;
+  padding-top: 50px;
+}
+.playbadge {
+  width: 140px;
+}
+.section4 {
+  height: 600px;
+  padding-top: 20px;
+}
+p {
+  color: black;
+}
+.section5 {
+  background-image: url("/bootstrap/img/bg-cta.jpg");
+  height: 400px;
+  background-position: center center;
+}
+[type="button"] {
+  border-radius: 10px;
+}
+h1,
+h2,
+h3 {
+  font-family: Catamaran, Helvetica, Arial, sans-serif;
+}
